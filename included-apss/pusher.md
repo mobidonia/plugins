@@ -12,13 +12,13 @@ Visit [Pusher](https://pusher.com/) official site. Create new account or login w
 
 After login you will see the screen for option to create **Channels** or **Beams**. Select Channels and create your first channel that you will use in your website.
 
-![](../.gitbook/assets/screenshot222.png)
+![Api](https://i.imgur.com/5ZBdNYs.png)
 
 Click on your channel that you have created and after that select **App Keys**. The credentials will be auto generated. 
 
-![](../.gitbook/assets/screenshot222.png%20%281%29.png)
+![Pusher](https://i.imgur.com/jIoSa5W.png)
 
 Now lets add these credentials in your Settings page. Select **Plugins** option.
 
-![](../.gitbook/assets/screenshot222.png.png)
+![Settings](https://i.imgur.com/wRHmYnt.png)
 
