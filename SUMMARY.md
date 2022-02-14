@@ -21,13 +21,14 @@
 * [Paddle](subscriptions-plugins/paddle.md)
 * [Bank](subscriptions-plugins/bank.md)
 
-## Included Apss
+## Included Apps
 
-* [Pusher](included-apss/pusher.md)
-* [ShareThis](included-apss/sharethis.md)
-* [Cookie Consent](included-apss/cookieconsent.md)
-* [Google Analytics](included-apss/google-analytics.md)
-* [Google Map API](included-apss/google-map-api.md)
+* [Pusher](included-apps/pusher.md)
+* [ShareThis](included-apps/sharethis.md)
+* [Cookie Consent](included-apps/cookieconsent.md)
+* [Google Analytics](included-apps/google-analytics.md)
+* [Google Map API](included-apps/google-map-api.md)
+* [reCAPTCHA](included-apps/recaptcha.md)
 
 ## Installable Apps
 
