@@ -18,11 +18,7 @@ To install the module, just download it, and upload it in the app section
 
 First, vendors need to enter the domain in their "Apps" section
 
-![](<../.gitbook/assets/CleanShot 2021-11-15 at 23.41.40@2x.png>)
-
-
-
-
+![](../.gitbook/assets/cd.png)
 
 ## Shared Hosting - Creating Addon Domain&#x20;
 
