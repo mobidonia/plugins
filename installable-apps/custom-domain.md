@@ -24,9 +24,7 @@ First, vendors need to enter the domain in their "Apps" section
 
 
 
-## Nameserver change
+## Shared Hosting - Creating Addon Domain&#x20;
 
-You will need to instruct your clients, to change the name servers to your hosting name servers.&#x20;
-
-After that, you will need to create "Domain Aliases". &#x20;
+{% embed url="https://www.youtube.com/watch?v=4BD9dUc-6fY" %}
 
