@@ -32,6 +32,7 @@
 
 ## Installable Apps
 
+* [Tiny PNG](installable-apps/tiny-png.md)
 * [Automated Printing](installable-apps/automated-printing.md)
 * [Custom Domain](installable-apps/custom-domain.md)
 
