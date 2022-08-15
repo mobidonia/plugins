@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [How to install Plugin](how-to-install-plugin.md)
+* [How to make your own plugins](how-to-make-your-own-plugins.md)
 
 ## Payments Plugins
 
@@ -20,6 +21,7 @@
 * [PayPal](subscriptions-plugins/paypal.md)
 * [Paddle](subscriptions-plugins/paddle.md)
 * [Bank](subscriptions-plugins/bank.md)
+* [PayStack](subscriptions-plugins/paystack.md)
 
 ## Included Apps
 
