@@ -19,7 +19,21 @@ To get an API key:
 
 ![](https://i.imgur.com/RP2Oz0z.png)
 
-1. Click the menu button and select **Credentials** and click **Create credentials &gt; API key**
+### Required APIs per project type
+
+
+
+<table><thead><tr><th>API/Project</th><th data-type="checkbox">FoodTiger</th><th data-type="checkbox">QR/WhatsAppFood/Agris</th><th data-type="checkbox">WhatsApp Taxi</th></tr></thead><tbody><tr><td>Maps JavaScript</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Places</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Distance Matrix</td><td>false</td><td>false</td><td>true</td></tr><tr><td>Geocoding</td><td>true</td><td>false</td><td>true</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+1. Click the menu button and select **Credentials** and click **Create credentials > API key**
 
 ![](https://i.imgur.com/UWoosIR.png)
 
@@ -27,22 +41,22 @@ The **API key created** dialog displays your newly created API key.
 
 ![](https://i.imgur.com/P40twZC.png)
 
-The new API key is listed on the **Credentials** page under **API keys**.  
-\(Remember to [restrict the API key](https://developers.google.com/maps/documentation/javascript/get-api-key#restrict_key) before using it in production.\)
+The new API key is listed on the **Credentials** page under **API keys**.\
+(Remember to [restrict the API key](https://developers.google.com/maps/documentation/javascript/get-api-key#restrict\_key) before using it in production.)
 
 **6.** Copy the API Key and paste in your `.env` file. You can use the .env editor from when you login as admin
 
-```text
+```
 GOOGLE_MAPS_API_KEY="" //API KEY
 ```
 
 ### Possible problems
 
 {% hint style="info" %}
-**IMPORTANT:** Please make sure that everything is working okay \(showing maps and adding new client address in order checkout page\).
+**IMPORTANT:** Please make sure that everything is working okay (showing maps and adding new client address in order checkout page).
 {% endhint %}
 
-1. **Change application restrictions**   
+1. **Change application restrictions**
 
 Depending on your server/domain configuration the script maybe won't accept the **HTTP referrers** restrictions so try with changing the application restrictions back to **None**
 
@@ -60,7 +74,7 @@ Depending on your server/domain configuration the script maybe won't accept the 
 
 Sometimes after adding the key these features maybe won't work again. Then depending on the google account associated with the project created and maybe you will need to enable Billing.
 
-Learn more here about it: [Billing](https://console.cloud.google.com/project/_/billing/enable) or here [Getting started with Google Maps Platform](https://developers.google.com/maps/gmp-get-started)
+Learn more here about it: [Billing](https://console.cloud.google.com/project/\_/billing/enable) or here [Getting started with Google Maps Platform](https://developers.google.com/maps/gmp-get-started)
 
 If you have still problems with this configuration write us on our [support chat](https://help.mobidonia.com/) for help/assistance.
 
@@ -85,4 +99,3 @@ Add our email **mobidonia@gmail.com** and give us **Editor** role.
 In the end click **Save**.
 
 Write us on our [support chat ](https://help.mobidonia.com/)for your project details.
-
