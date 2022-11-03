@@ -23,7 +23,7 @@ To get an API key:
 
 
 
-<table><thead><tr><th>API/Project</th><th data-type="checkbox">FoodTiger</th><th data-type="checkbox">QR/WhatsAppFood/Agris</th><th data-type="checkbox">WhatsApp Taxi</th></tr></thead><tbody><tr><td>Maps JavaScript</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Places</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Distance Matrix</td><td>false</td><td>false</td><td>true</td></tr><tr><td>Geocoding</td><td>true</td><td>false</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th>API/Project</th><th data-type="checkbox">FoodTiger</th><th data-type="checkbox">QR/WhatsAppFood/Agris</th><th data-type="checkbox">WhatsApp Taxi</th><th data-type="checkbox">Agris</th></tr></thead><tbody><tr><td>Maps JavaScript</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Places</td><td>true</td><td>false</td><td>true</td><td>false</td></tr><tr><td>Distance Matrix</td><td>false</td><td>false</td><td>true</td><td>false</td></tr><tr><td>Maps Static API</td><td>false</td><td>false</td><td>false</td><td>true</td></tr><tr><td>Geocoding</td><td>true</td><td>false</td><td>true</td><td>false</td></tr></tbody></table>
 
 
 
